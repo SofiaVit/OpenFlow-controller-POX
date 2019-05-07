@@ -3,8 +3,8 @@ OpenFlow controller POX and implementation of Firewall and Flowspace Slicing<br>
 ## How to run?
 1) In the controller "con.py". Change the path that leads to the file "firewall-policies.csv" based on where you put it in your computer.
     The path is stored in variable "policyFile", right under all the imports.
-2)Execute pox controller - "con.py" 
-3)Execute mininet topology - "topo.py"
+2) Execute pox controller - "con.py" 
+3) Execute mininet topology - "topo.py"
 ## How it works?
 ### Firewall
 Implementing a layer-2 firewall app using the POX controller.<br>
